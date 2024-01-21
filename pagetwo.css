@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+} 
+
+.back{
+    height:740px;
+    width:1500px;
+    background-image: url("mobile img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{color:#11009e;text-decoration: none;}
