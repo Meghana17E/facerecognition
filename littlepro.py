@@ -4,7 +4,7 @@ video=cv2.VideoCapture(0)
 
 while True:
     ret, frame=video.read()
-    cv2.imshow("Age-Gender", frame)
+    cv2.imshow("Age-Verification", frame)
     k=cv2.waitKey(1)
     if k==ord('q'):
         break
